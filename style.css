@@ -1,6 +1,6 @@
 body {
     padding: 20px;
-    background-color: #444;
+    background-color: rgb(102, 91, 91);
 }
 
 #gridContainer {
@@ -8,7 +8,7 @@ body {
 }
 
 table {
-    background-color: #c5d1d6;
+    background-color: #d1c5c5;
     border-spacing: 0;
 }
 
@@ -27,7 +27,7 @@ span {
 #clear,
 #random {
     padding: .75em;
-    border-radius: 5px;
+    border-radius: 50px;
     border: none;    
     background: linear-gradient(
         to bottom right,
@@ -39,6 +39,6 @@ td.dead {
 }
 
 td.live {
-    background-color: #2594c7;
+    background-color: #2e2d2d;
     border-radius: 10px;
 }
