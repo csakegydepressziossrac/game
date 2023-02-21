@@ -46,7 +46,7 @@ function createTable() {
     var gridContainer = document.getElementById('gridContainer');
     if (!gridContainer) {
 
-        console.error("Problem: No div for the drid table!");
+        console.error("asd");
     }
     var table = document.createElement("table");
     
@@ -121,7 +121,7 @@ function randomButtonHandler() {
 
 
 function clearButtonHandler() {
-    console.log("Clear the game: stop playing, clear the grid");
+    console.log("Játék törlése");
     
     playing = false;
     var startButton = document.getElementById('start');
