@@ -1,5 +1,5 @@
 var sor = 38;
-var oszlopok = 100;
+var oszlopok = 150;
 
 var playing = false;
 
